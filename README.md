@@ -18,4 +18,6 @@ O objetivo desta página é fornecer um acesso rápido e organizado aos meus per
 - JavaScript para a interatividade do agendamento de reuniões
 - Google Fonts para uma tipografia limpa e profissional
 
+- Link do cartão: https://raianasousa.github.io/
+
 Este projeto foi criado para ser um ponto de contato central e profissional. Sinta-se à vontade para se conectar!
