@@ -21,9 +21,4 @@ JavaScript para a interatividade do agendamento de reuniões.
 
 Google Fonts para uma tipografia limpa e profissional.
 
-🚀 Como Visualizar
-A página está publicada e pode ser acessada através do GitHub Pages no seguinte endereço:
-
-https://raianasantos.github.io
-
 Este projeto foi criado para ser um ponto de contato central e profissional. Sinta-se à vontade para se conectar!
